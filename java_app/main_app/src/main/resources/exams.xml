@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exams>
+    <exam>
+        <date>18/11/2024</date>
+        <location>Hà Nội</location>
+        <vehicleCount>55</vehicleCount>
+        <licenseType>B1</licenseType>
+        <examForm>Thực hành</examForm>
+    </exam>
+    <exam>
+        <date>20/11/2024</date>
+        <location>Hồ Chí Minh</location>
+        <vehicleCount>40</vehicleCount>
+        <licenseType>B1</licenseType>
+        <examForm>Lý thuyết</examForm>
+    </exam>
+    <exam>
+        <date>02/12/2024</date>
+        <location>Hồ Chí Minh</location>
+        <vehicleCount>80</vehicleCount>
+        <licenseType>B1</licenseType>
+        <examForm>Lý thuyết</examForm>
+    </exam>
+    <exam>
+        <date>14/11/2024</date>
+        <location>Nghệ An</location>
+        <vehicleCount>50</vehicleCount>
+        <licenseType>B1</licenseType>
+        <examForm>Lý thuyết</examForm>
+    </exam>
+    <exam>
+        <date>15/06/2024</date>
+        <location>Hồ Chí Minh</location>
+        <vehicleCount>54</vehicleCount>
+        <licenseType>B1</licenseType>
+        <examForm>Thực hành</examForm>
+    </exam>
+    <exam>
+        <date>06/11/2024</date>
+        <location>Thanh Hóa</location>
+        <vehicleCount>67</vehicleCount>
+        <licenseType>B1</licenseType>
+        <examForm>Thực hành</examForm>
+    </exam>
+    <exam>
+        <date>13/11/2024</date>
+        <location>Hà Nội</location>
+        <vehicleCount>34</vehicleCount>
+        <licenseType>B1</licenseType>
+        <examForm>Lý thuyết</examForm>
+    </exam>
+    <exam>
+        <date>19/11/2024</date>
+        <location>Hà Tĩnh</location>
+        <vehicleCount>34</vehicleCount>
+        <licenseType>B1</licenseType>
+        <examForm>Thực hành</examForm>
+    </exam>
+    <exam>
+        <date>06/11/2024</date>
+        <location>Bình Định</location>
+        <vehicleCount>23</vehicleCount>
+        <licenseType>B1</licenseType>
+        <examForm>Thực hành</examForm>
+    </exam>
+</exams>

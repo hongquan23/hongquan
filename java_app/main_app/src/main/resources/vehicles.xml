@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vehicles>
+    <vehicle>
+        <vehicleNumber>30A-12345</vehicleNumber>
+        <vehicleInfo>Toyota Vios</vehicleInfo>
+        <examAssigned>Thực hành</examAssigned>
+    </vehicle>
+    <vehicle>
+        <vehicleNumber>99E1-64888</vehicleNumber>
+        <vehicleInfo>Vinfast</vehicleInfo>
+        <examAssigned>Lý thuyết</examAssigned>
+    </vehicle>
+    <vehicle>
+        <vehicleNumber>30A-2992929</vehicleNumber>
+        <vehicleInfo>KIA</vehicleInfo>
+        <examAssigned>Thực hành</examAssigned>
+    </vehicle>
+    <vehicle>
+        <vehicleNumber>29A-88888</vehicleNumber>
+        <vehicleInfo>Audi</vehicleInfo>
+        <examAssigned>Thực hành</examAssigned>
+    </vehicle>
+</vehicles>
