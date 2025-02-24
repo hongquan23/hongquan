@@ -1,0 +1,316 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: font-family: "Be Vietnam Pro", sans-serif;
+}
+body
+{
+    margin: 8px 10px;
+   
+}
+
+a
+{
+    text-decoration: none;
+}
+
+ul
+{
+    list-style: none;
+}
+
+.header
+{
+    width: 100%;
+    height:120px;
+    background-image: url(./banner-header.jpg);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.respons
+{
+    display: flex;
+    height: 100%;
+    /* line-height: 120px; */
+     display: flex;
+    align-items: center;
+    width:25%;
+}
+.logo
+{
+    padding-right: 80px;
+}
+
+.logo-img
+{
+    width: 80%;
+    height: 100%;
+
+}
+.log a:hover
+{
+    color: rgb(219, 17, 17);
+}
+
+
+.find
+{
+    width:25%;
+    height: 100%;
+    line-height: 120px;
+    
+}
+.find input
+{
+    width: 80%;
+    height: 40px;
+    border: 1px solid #64b305;
+    border-radius: 10px;
+}
+
+.address
+{
+    margin-left: 80px;
+}
+
+.address p
+{
+    
+    font-size: 20px;
+    
+}
+
+.log
+{
+   padding-left: 80px;
+}
+.log img
+{
+    width: 60px;
+    height: 60px;
+}
+
+.log a
+{
+    font-size: 20px;
+    color: black;
+}
+
+
+.nav
+{
+    background-color: #00671e;
+    width: 100%;
+    height: 60px;
+}
+
+.nav nav ul 
+{
+    display:flex ;
+    flex-direction: row;
+
+}
+
+.nav nav ul li
+{
+    line-height: 60px;
+    margin: 0 20px;
+    
+}
+
+.nav nav ul li a
+{
+    color: white;
+    font-size: 20px;
+}
+.nav nav ul li a:hover
+{
+    color: rgb(219, 17, 17);
+}
+
+.adver
+{
+    display: flex;
+    width: 100%;
+}
+.adver-child
+{
+    display: flex;
+    height: 120px;
+    align-items: center;
+    
+}
+
+.adver .p1
+{
+    color:#00671e;
+    margin-bottom: 8px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.hightlight
+{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin: 30px 0;
+    color: #00671e;
+}
+
+.main
+{
+    width: 100%;
+}
+.part1
+{
+    width: 100%;
+    /* height: 200px; */
+    display: flex;
+}
+
+.part1-child
+{
+    width: 100%;
+    margin: 0 8px;
+
+
+}
+
+.part1-child img
+{
+    width: 100%;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.part1-content
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.part1-content span
+{
+    color: rgb(200, 174, 10);
+    font-size: 20px;
+    margin: 8px 0;
+}
+
+.part1-content a
+{
+    color: #e40d56;
+    font-weight: bold;
+}
+
+.part2
+{
+    display: flex;
+    width: 100%;
+    /* height: ; */
+}
+
+.part2-child
+{
+    width: 100%;
+    margin: 0 20px;
+
+}
+.part2-child img
+{
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+}
+
+ .part2-content a
+{
+    color: black;
+    /* margin: 12px 0; */
+    font-weight: bold;
+}
+ .part2-content a:hover
+{
+    color:#e40d56;
+}
+
+.part2-content p{
+    margin-top: 10px;
+}
+
+.addition-big
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.addition
+{
+    text-align: center;
+    color: #00671e;
+    width: 200px;
+    height: 50px;
+    border: 2px solid #00671e ;
+    border-radius: 30px;
+    line-height: 50px;
+    width: 200px;
+    margin: 20px 0;
+}
+
+footer
+{
+    background-color: #00671e;
+    display: flex;
+    width: 100%;
+    /* justify-content: space-around; */
+}
+
+.footer-child
+{
+    width: 25%;
+}
+.p3
+{
+    color: white;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+
+.p4
+{
+    color: white;
+    font-size: 16px;
+    opacity: 0.8;
+}
+
+.social
+{
+    width: 150px;
+    height: 60px;
+    object-fit: cover;
+}
+
+.end
+{
+    width: 100%;
+    background-color: #00671e;
+    height: 40px;
+    border-top: 1px solid black;
+    text-align: center;
+    color:white;
+    overflow: 0.8;
+    font-size: 16px;
+    line-height: 40px;
+}
+
+
+
+

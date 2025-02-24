@@ -1,0 +1,5 @@
+màu xanh lá cây: #00671e
+màu vàng: #FFC107
+màu xanh lá nhạt: #64b305
+màu đỏ: #e40d56
+font-family: "Be Vietnam Pro", sans-serif
