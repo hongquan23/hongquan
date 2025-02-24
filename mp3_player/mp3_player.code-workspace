@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../JAVA"
+		},
+		{
+			"path": "../w3_band"
+		},
+		{
+			"path": "../demo"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/*.jar"
+		],
+		"liveServer.settings.multiRootWorkspaceName": "demo"
+	}
+}

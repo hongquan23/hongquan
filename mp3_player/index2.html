@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mp3 player</title>
+    <link rel="icon" type="image/x-icon" href="./img/cute.jpg">
+    <link rel="stylesheet" href="./main2.css">
+    <link rel="stylesheet" href="./themify-icons/themify-icons.css">
+    
+ 
+</head>
+<body>
+  <div class="total">
+    <!-- Control -->
+    <div class="player">
+      <h1>PLAYING</h1> 
+      <div class="cd">
+       <div class="cd-thumb" style="background-image: url('./img/tải\ xuống.jpg')">
+       </div>
+     </div>
+     <div class="control">
+       <div class="btn btn-repeat">
+         <i class="ti-reload"></i>
+       </div>
+       <div class="btn btn-prev">
+         <i class="ti-control-skip-backward"></i>
+       </div>
+       <div class="btn btn-toggle-play">
+         <i class="ti-control-pause icon-pause"></i>
+         <i class="ti-control-play icon-play"></i>
+       </div>
+       <div class="btn btn-next">
+         <i class="ti-control-skip-forward"></i>
+       </div>
+       <div class="btn btn-random">
+         <i class="ti-control-shuffle"></i>
+       </div>
+     </div>
+     <input id="progress" class="progress" type="range" value="0" step="1" min="0" max="100">
+     
+     <audio id="audio" src=""></audio>
+
+
+
+      <!-- Playlist -->
+       <div class="playlist">
+         <div class="song">
+           <div class="thumb"></div>
+           <div class="body">
+             <h3 class="tittle">Music name</h3>
+             <p class="author">Singer</p>
+           </div>
+           <div class="option">
+             <i class="ti-more"></i>
+           </div>
+         </div>
+         <div class="song">
+           <div class="thumb"></div>
+           <div class="body">
+             <h3 class="tittle">Music name</h3>
+             <p class="author">Singer</p>
+           </div>
+           <div class="option">
+             <i class="ti-more"></i>
+           </div>
+         </div>
+         <div class="song">
+           <div class="thumb"></div>
+           <div class="body">
+             <h3 class="tittle">Music name</h3>
+             <p class="author">Singer</p>
+           </div>
+           <div class="option">
+             <i class="ti-more"></i>
+           </div>
+         </div>
+       </div>
+
+   </div>
+  </div>
+
+    <script src="./main.js"></script>
+</body>
+
+</html>
